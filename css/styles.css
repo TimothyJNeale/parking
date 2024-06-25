@@ -1,5 +1,6 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Open Sans", Arial, sans-serif;
+    color: rgb(58, 58, 58);
     margin: 0;
     padding: 0;
     box-sizing: border-box;
