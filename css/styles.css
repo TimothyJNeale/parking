@@ -32,6 +32,11 @@ header {
     text-align: center;
     padding: 40px 20px;
 }
+.blue-section h1 {
+    font-size: 36px;
+    font-weight: 300;
+    margin-bottom: 0;
+}
 
 .info-section {
     background-color: #f4f4f4;
