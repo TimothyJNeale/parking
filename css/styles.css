@@ -94,6 +94,7 @@ footer {
     max-width: 600px;
     padding: 20px 40px;
     display: flex;
+    flex-direction: row;
     align-items: left;
     justify-content: left;
 }
@@ -101,8 +102,6 @@ footer {
 .footer-left {
     width: 50%;
 }
-
-
 
 .footer-right {
     width: 50%;
@@ -114,5 +113,15 @@ footer {
     }
     .about-section {
         flex-direction: column;
+    }
+    .footer-content {
+        flex-direction: column;
+    }
+    .footer-left {
+        width: 80%;
+    }
+    
+    .footer-right {
+        width: 80%;
     }
 }
